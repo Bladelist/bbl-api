@@ -1,0 +1,37 @@
+{
+  "name": "bbl-api",
+  "version": "0.1.0",
+  "description": "The official bladebotlist.xyz's api to post your server count easly and interact with the bladebotlist api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bladebotlist/bbl-api.git"
+  },
+  "keywords": [
+    "bbl",
+    "api",
+    "lightweight",
+    "node-fetch",
+    "bblapi",
+    "discordjs",
+    "eris",
+    "module",
+    "official",
+    "nodejs",
+    "Bladebotlist",
+    "bladebotlist.xyz",
+    "wrapper"
+  ],
+  "author": "HiiZun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bladebotlist/bbl-api/issues"
+  },
+  "homepage": "https://github.com/bladebotlist/bbl-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
