@@ -13,7 +13,7 @@
     <img alt="License: mit" src="https://img.shields.io/github/license/hiizun/bbl-api" />
   </a>
   <a href="https://twitter.com/bladebotlist" target="_blank">
-    <img alt="Twitter: HiiZunfr" src="https://img.shields.io/twitter/follow/bladebotlist.svg?style=social" />
+    <img alt="Twitter: bladebotlist" src="https://img.shields.io/twitter/follow/bladebotlist.svg?style=social" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ npm install bbl-api
 ## Usage
 
 ```js
-const BBL = require("../app");
+const BBL = require("bbl-api");
 const client = new BBL(
     "BOT ID", // BOT_ID
     "THE API KEY", // API_KEY, use bbl!key gen on the discord server
@@ -70,7 +70,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [HiiZun](https://github.com/hiizun).<br />
-This project is [mit](https://github.com/bladebotlist/bbl-api/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This project is [MIT](https://github.com/bladebotlist/bbl-api/blob/master/LICENSE) licensed.
