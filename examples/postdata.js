@@ -1,9 +1,10 @@
 const BBL = require("../app");
 const client = new BBL(
-    "BOT ID", // BOT_ID
-    "THE API KEY", // API_KEY, use bbl!key gen on the discord server
+    "", // BOT_ID
+    "", // API_KEY, use bbl!key gen on the discord server
     {
-        server_count: "2",
+        server_count: "3000",
+        shard_count: "20",
         interval: 300000,
     });
 
