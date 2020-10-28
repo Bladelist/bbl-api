@@ -1,6 +1,6 @@
 {
   "name": "bbl-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The official bladebotlist.xyz's api to post your server count easly and interact with the bladebotlist api",
   "main": "app.js",
   "scripts": {
