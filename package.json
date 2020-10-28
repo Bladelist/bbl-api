@@ -32,6 +32,8 @@
   },
   "homepage": "https://github.com/bladebotlist/bbl-api#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "node-fetch": "^2.6.0"
   }
 }

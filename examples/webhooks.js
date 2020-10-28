@@ -5,7 +5,13 @@ const client = new BBL(
     {
         server_count: "3000",
         shard_count: "20",
-        interval: 300000
+        interval: 300000,
+        webhook: {
+            status: true,
+            port: 6060,
+            password: "youshallnotpass",
+            endpoint:"/hook"
+        }
     });
 
 
@@ -19,7 +25,6 @@ client.on("error", (error) => console.log(`Something was wrong when the module h
 
 client.on("vote", (out) => {
 /*
-you must enable the webhook server !
 out must looks like
 {
             "userid":355995885085392896,
