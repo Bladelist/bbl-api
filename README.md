@@ -53,7 +53,7 @@ you can also checkout the exemples directory where you can see some examples :P
 
 ## Author
 
-👤 **HiiZun**
+👤 ****
 
 * Website: http://hiizun.codes
 * Twitter: [@HiiZunfr](https://twitter.com/HiiZunfr)
@@ -69,5 +69,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [HiiZun](https://github.com/hiizun).<br />
+Copyright © 2020 [NaoismyWaifu](https://github.com/Naoismywaifu).<br />
 This project is [MIT](https://github.com/bladebotlist/bbl-api/blob/master/LICENSE) licensed.
