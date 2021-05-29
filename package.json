@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "The official bladebotlist.xyz's api to post your server count easly and interact with the bladebotlist api",
   "main": "app.js",
+  "types": "typings/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
